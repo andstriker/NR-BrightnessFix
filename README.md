@@ -1,6 +1,8 @@
 # NR-BrightnessFix
 Simple mod for Night-Runners that makes the in-game 'Brightness' slider values more effective.
 
+So far only tested on TOUGE Private Alpha build. No guarantees that it'll work with the Prologue version(s).
+
 ## Installation
 **STEP 1:** Download <a href="https://melonloader.net/">MelonLoader</a> and its necessary <a href="https://melonwiki.xyz/#/">requirements</a>.
 
