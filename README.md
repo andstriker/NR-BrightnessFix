@@ -1,5 +1,5 @@
 # NR-BrightnessFix
-Simple mod for Night-Runners that makes the in-game 'Brightness' setting more effective.
+Simple mod for Night-Runners that makes the in-game 'Brightness' slider values more effective.
 
 ## Installation
 **STEP 1:** Download <a href="https://melonloader.net/">MelonLoader</a> and its necessary <a href="https://melonwiki.xyz/#/">requirements</a>.
