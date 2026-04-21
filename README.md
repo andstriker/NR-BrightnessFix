@@ -19,14 +19,14 @@ So far only tested on TOUGE Private Alpha build. No guarantees that it'll work w
 **STEP 6:** Happy racing!
 
 ## Examples
-Brightness: 4 **(OLD)**
+Brightness: +4 **(OLD)**
 ![brightnessFix_old1](https://github.com/user-attachments/assets/cd86f415-4044-43a7-a8bd-d1af36e9df35)
 
-Brightness: 4 **(NEW)**
+Brightness: +4 **(NEW)**
 ![brightnessFix_new1](https://github.com/user-attachments/assets/8132293d-5a62-4dae-aaa8-557c53d3f4b5)
 
-Brightness: 4 **(OLD)**
+Brightness: +4 **(OLD)**
 ![brightnessFix_old2](https://github.com/user-attachments/assets/7e3ce991-76a5-4db6-828d-53e069305e92)
 
-Brightness: 4 **(NEW)**
+Brightness: +4 **(NEW)**
 ![brightnessFix_new2](https://github.com/user-attachments/assets/db0c8f20-d3ca-4a88-9033-988f3e8f9d81)
