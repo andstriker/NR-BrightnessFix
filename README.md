@@ -1,7 +1,7 @@
 # NR-BrightnessFix
 Simple mod for Night-Runners that makes the in-game 'Brightness' slider values more effective.
 
-Useful for people who think the game is too dark in its current state. The mod also works both ways so setting the value to -5 makes the scene very dark which can be useful for low exposure photomode shooting.
+Useful for people who think the game is too dark in its current state. The mod also works both ways so setting the value to -5 makes the scene very dark which can be useful for low exposure photomode pics.
 
 So far only tested on TOUGE Private Alpha build. No guarantees that it'll work with the Prologue version(s).
 
