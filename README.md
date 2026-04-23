@@ -6,6 +6,9 @@ Useful for people who think the game is too dark in its current state. The mod a
 So far only tested on TOUGE Private Alpha build. No guarantees that it'll work with the Prologue version(s).
 
 ## Installation
+***This mod is available for both MelonLoader and BepInEx (ver. 6) patch methods.***
+
+### MelonLoader:
 **STEP 1:** Download <a href="https://melonloader.net/">MelonLoader</a> and its necessary <a href="https://melonwiki.xyz/#/">requirements</a>.
 
 **STEP 2:** Run the MelonLoader installer and make sure the latest ML version is selected.
@@ -15,6 +18,19 @@ So far only tested on TOUGE Private Alpha build. No guarantees that it'll work w
 **STEP 4:** Grab the latest Striker.BrightnessFix.dll file. You can find it in this repository's <a href=https://github.com/andstriker/NR-HoodCam/releases/>Releases</a> tab.
 
 **STEP 5:** Drag the Striker.BrightnessFix.dll file into your game directory's 'Mods' folder.
+
+**STEP 6:** Happy racing!
+
+### BepInEx:
+**STEP 1:** Download <a href="https://docs.bepinex.dev/articles/user_guide/installation/index.html#where-to-download-bepinex">BepInEx</a> (must be <a href = "https://builds.bepis.io/projects/bepinex_be">bleeding edge (pre-release)</a> version!)
+
+**STEP 2:** Unzip the contents into the game root folder (the folder with NIGHT-RUNNERS executable (.exe) in it).
+
+**STEP 3:** Run the game once to generate configuration files (you will know it worked if you see a "config" folder show up in "[game root]/BepInEx"). Then close the game.
+
+**STEP 4:** Grab the latest Striker.BrightnessFix_BIE.dll file. You can find it in this repository's <a href=https://github.com/andstriker/NR-HoodCam/releases/>Releases</a> tab.
+
+**STEP 5:** Drag the Striker.BrightnessFix_BIE.dll file into "[game root]/BepInEx/plugins" folder.
 
 **STEP 6:** Happy racing!
 
