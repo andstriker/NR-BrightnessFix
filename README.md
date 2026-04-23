@@ -22,7 +22,7 @@ So far only tested on TOUGE Private Alpha build. No guarantees that it'll work w
 **STEP 6:** Happy racing!
 
 ### BepInEx:
-**STEP 1:** Download <a href="https://docs.bepinex.dev/articles/user_guide/installation/index.html#where-to-download-bepinex">BepInEx</a> (must be <a href = "https://builds.bepis.io/projects/bepinex_be">bleeding edge (pre-release)</a> version!)
+**STEP 1:** Download <a href="https://docs.bepinex.dev/articles/user_guide/installation/index.html#where-to-download-bepinex">BepInEx</a> (must be <a href = "https://builds.bepinex.dev/projects/bepinex_be">bleeding edge (pre-release)</a> version!)
 
 **STEP 2:** Unzip the contents into the game root folder (the folder with NIGHT-RUNNERS executable (.exe) in it).
 
